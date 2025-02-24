@@ -6,7 +6,7 @@ This is a Ctel (short for stellar) theme for [Oh-My-Posh](https://github.com/Jan
 
 ![screenshot](./assets/screenshot.png)
 
-## Installation
+## How to use
 
 Follow the installation instructions from [Oh-My-Posh](https://github.com/JanDeDobbeleer/oh-my-posh) to install Oh-My-Posh.
 
